@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Data_Science_MOOC_Exercise}
+  <content>
+# Data_Science_MOOC_Exercise
 Exercise from "Introduction to Data science" (Coursera), "Fondamentaux du Big Data" (Fun mooc), "Machine Learning" (Coursera, Andrew Ng).
 
 ## 0) Twitter sentiment analysis (Python)
