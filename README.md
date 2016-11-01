@@ -47,6 +47,5 @@ How to Run: type "ex7" in Octave shell in the right repository and also type "ex
 Challenge: Detect anomalous behavior in server computers. And build a movie recommender.  
 Techniques: gaussian distribution, collaborative filtering learning algorithm, learning movie recommendations  
 How to Run: type "ex8" in Octave shell in the right repository and also type "ex8_cofi" for part 2  
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
 </snippet>
